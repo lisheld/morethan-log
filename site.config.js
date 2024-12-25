@@ -7,7 +7,8 @@ const CONFIG = {
     bio: "Current sophomore at MIT studying Computer Science and Physics with a passion for teaching",
     email: "lsheldon@mit.edu",
     linkedin: "liam-sheldon-b33688299",
-    github: "lisheld"
+    github: "lisheld",
+    instagram: ""
   },
   projects: [
   ],
